@@ -1,0 +1,23 @@
+# OS
+*.DS_Store
+
+# Environments
+.env/
+.venv/
+.tox/
+
+# IDEs / Text Editors
+.idea/
+.vscode/
+
+# Generated Stuff
+.coverage
+.test-reports/
+.pytest_cache
+dist/
+*.crc
+__pycache__
+*.pyc
+.tmp/
+src/data/TRUSTED/**/*
+src/data/REFINED/**/*

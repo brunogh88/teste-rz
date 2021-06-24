@@ -1,0 +1,7 @@
+pylint==1.9.5
+pycodestyle==2.7.0
+pytest==4.6.11
+pytest-cov==2.8.1
+pytest-html==1.22.1
+pyspark==2.4.0
+docker==4.2.1
